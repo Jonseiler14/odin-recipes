@@ -13,6 +13,13 @@
     
 }
 
+.heading {
+    background-color: rgb(241, 255, 116);
+    width: 200px;
+    padding: 16px;
+    border: 3px solid black;
+}
+
 .list {
     background-color: rgba(113, 113, 113, 0.598);
     color: white;
